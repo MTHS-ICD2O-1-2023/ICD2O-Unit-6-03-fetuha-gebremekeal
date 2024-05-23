@@ -7,7 +7,7 @@
 "use strict"
 
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICD2O-Unit-6-03-nathan-desilva/sw.js", {
+  navigator.serviceWorker.register("/ICD2O-Unit-6-03-fetuha-gebremekeal/sw.js", {
     scope: "/ICD2O-Unit-6-03-fetuha-gebremekeal/sw.js",
   })
 }
